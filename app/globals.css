@@ -1,5 +1,33 @@
 @import "tailwindcss";
 
+.bg-clear {
+  background-image: url('/images/clear.jfif'); /* Use clear.jpg or clear.png */
+}
+
+.bg-cloudy {
+  background-image: url('/images/cloudy.jfif'); /* Use cloudy.jpg or cloudy.png */
+}
+
+.bg-rainy {
+  background-image: url('/images/rainy.jfif'); /* Use rainy.jpg or rainy.png */
+}
+
+.bg-stormy {
+  background-image: url('/images/stormy.jfif'); /* Use stormy.jpg or stormy.png */
+}
+
+.bg-snowy {
+  background-image: url('/images/snowy.jfif'); /* Use snowy.jpg or snowy.png */
+}
+
+.bg-misty {
+  background-image: url('/images/misty.jfif'); /* Use misty.jpg or misty.png */
+}
+
+.bg-default {
+  background-image: url('/images/default.jfif'); /* Use default.jpg or default.png */
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
